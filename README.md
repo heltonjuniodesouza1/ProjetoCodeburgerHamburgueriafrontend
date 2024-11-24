@@ -2,7 +2,7 @@
 
 <h2>Olá sejam bem-vindo</h2>
 
-<p>Projeto Front-End CodeBurguer</p>
+<p>Projeto FrontEndCodeBurguer</p>
 <p>Com o auxílio do meu mentor Rodolfo Mori, desenvolvi um projeto completo para uma hamburgueria utilizando React, API e Área Admin. O site oferece uma experiência completa para os clientes, desde a navegação intuitiva até a compra final.</p>
 
 <h4>Funcionalidades:</h4>
