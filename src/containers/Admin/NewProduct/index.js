@@ -12,7 +12,8 @@ import api from '../../../services/api'
 import { Container, Label, Input, ButtonStyled, LabelUpload } from './styles'
 
 function NewProduct() {
-  const { fileName, setFileName } = useState(null)
+  const [fileName, setFileName] = useState(null)
+
   const [categories, setCategories] = useState([])
   const { push } = useHistory()
 
